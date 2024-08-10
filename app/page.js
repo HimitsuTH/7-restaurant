@@ -4,7 +4,7 @@ import Image from "next/image";
 import main_image from '../public/main-image.jpg'
 import isao from '../public/isao.jpg'
 import bankara from '../public/bankara.jpg'
-import kinai from '../public/kiani.jpg'
+import kinai from '../public/Kiani.jpg'
 import Hanaya from '../public/Hanaya.jpg'
 import ranhaman from '../public/rahaman.jpg'
 import rung from '../public/rung.jpg'
